@@ -1,0 +1,34 @@
+one:
+  name: Annas Pankaksstudio
+  address: Karlavägen 18, Stockholm
+  location: Point(18.067954 59.343038)
+
+two:
+  name: Rabble HQ
+  address: Holländargatn 20, Stockholm
+  location: Point(18.058323 59.338924)
+
+three:
+  name: Ohlssons Tyger & Stuvar AB
+  address: Sveavägen 34, Stockholm
+  location: Point(18.063344 59.336243)
+
+four:
+  name: Hotel Bentleys
+  address: Drottninggatan 77, Stockholm
+  location: Point(18.057615 59.337611)
+
+five:
+  name: Lilla Radmannen
+  address: Rådmansgatan 67, Stockholm
+  location: Point(18.054611 59.339044)
+
+six:
+  name: Stadium Södertälje
+  address: Storgatan 9, Södertälje
+  location: Point(17.626854 59.19662)
+
+seven:
+  name: Shell 7-Eleven
+  address: Norra Esplanaden 2, Haparanda
+  location: Point(24.135415 65.839698)

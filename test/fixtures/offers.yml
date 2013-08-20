@@ -1,0 +1,41 @@
+one:
+  title: Pankaka med kyckling
+  highlight: Gratis
+  description: Kom och smaka på våra goda pankakor
+  checkouts: 1
+  spot: one
+
+two:
+  title: Data-analytiker
+  highlight: Jobba
+  description: Kom och jobba hos oss
+  checkouts: 2
+  spot: two
+
+three:
+  title: Blommigt tyg
+  highlight: Fin
+  description: Fint blommigt tyg
+  checkouts: 3
+  spot: three
+
+four:
+  title: Bo gratis i en garderob
+  highlight: Gratis
+  description: Kom och bo gratis
+  checkouts: 4
+  spot: four
+
+five:
+  title: -10 kr på pingisboll
+  highlight: ''
+  description: Spela mera pingis
+  checkouts: 6
+  spot: six
+
+six:
+  title: 50% på tuggumi
+  highlight: 50%
+  description: Tugga i sommar
+  checkouts: 7
+  spot: seven

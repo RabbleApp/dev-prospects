@@ -1,0 +1,13 @@
+development:
+  adapter: postgis
+  encoding: unicode
+  database: backend_test_development
+  pool: 5
+  postgis_extension: true
+
+test:
+  adapter: postgis
+  encoding: unicode
+  database: backend_test_test
+  pool: 5
+  postgis_extension: true
